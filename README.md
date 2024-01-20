@@ -2,7 +2,7 @@
 
 Web Dev Assignment using only HTML, CSS and Javascript
 
-<p><bold>Steps for running the files :</bold></p>
+<p><b>Steps for running the files :</b></p>
 <p>1.Clone the repo</p>
 <p>2.Double click the "index.html" file / open in any browser</p>
 
