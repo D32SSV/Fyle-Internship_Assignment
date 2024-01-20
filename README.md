@@ -8,4 +8,4 @@ Web Dev Assignment using only HTML, CSS and Javascript
 
 Else the repo's folder can be opened in VS-Code or any other text editor as well.
 
-<a href="https://d32ssv.github.io/Fyle-Internship_Assignment/>">Click to see deployment</a>
+<a href="https://d32ssv.github.io/Fyle-Internship_Assignment/">Click to see deployment</a>
